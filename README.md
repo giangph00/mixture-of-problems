@@ -2,9 +2,9 @@
 
 A portfolio of deep learning projects for code reuse, sharing and learning.
 
-## Projects
+## Problems
 
-| Project | Description | Keywords |
-|---------|-------------|------------|-----------|
-| [project-1](./projects/project-1) | Brief description here | CNN, image classification
-| [project-2](./projects/project-2) | Brief description here | Transformer, NLP
+| Problem | Abstract | Keywords |
+|---------|-------------|------------|
+| [1](./projects/project-1) | Brief description here | kw1, kw2, ...
+| [2](./projects/project-2) | Brief description here | kw1, kw2, ...
