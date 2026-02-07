@@ -1,6 +1,6 @@
 # Mixture of Problems
 
-A portfolio of deep learning projects for code reuse, learning, and experimentation.
+A portfolio of deep learning projects for code reuse, sharing and learning.
 
 ## Projects
 
