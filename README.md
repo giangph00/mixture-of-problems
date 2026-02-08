@@ -16,4 +16,4 @@ Deep learning ...
 
 | Idx | Problem | Keywords |
 |---------|----------|----------|
-| [00](https://github.com/giangph00/mixture-of-problems/tree/main/notebooks/siamesenet) | A dual-purpose simple architecture for classification and visual image search engine | MobileNetV2, embeddings, similarity search, computer vision |
+| [00](https://github.com/giangph00/mixture-of-problems/tree/main/notebooks/siamesenet) | A dual-purpose simple architecture for classification and visual search engine | MobileNetV2, embeddings, similarity search, computer vision |
