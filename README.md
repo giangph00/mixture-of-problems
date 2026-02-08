@@ -16,4 +16,4 @@ Deep learning ...
 
 | Idx | Problem | Keywords |
 |---------|----------|----------|
-| [00](https://github.com/giangph00/mixture-of-problems/tree/main/siamese-neuralnet) | Similarity-based visual search engine for clothing retail | embeddings, similarity search, computer vision |
+| [00](https://github.com/giangph00/mixture-of-problems/tree/main/notebooks/siamesenet) | Similarity-based visual search engine for clothing retail | embeddings, similarity search, computer vision |
