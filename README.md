@@ -17,3 +17,4 @@ Deep learning ...
 | Idx | Problem | Keywords |
 |---------|----------|----------|
 | [00](https://github.com/giangph00/mixture-of-problems/tree/main/notebooks/siamesenet) | A dual-purpose simple architecture for classification and visual search engine | MobileNetV2, embeddings, similarity search, computer vision |
+| [01](https://github.com/giangph00/mixture-of-problems/tree/main/notebooks/interpretability) | Understanding how ResNet-50 makes predictions using interpretability techniques | ResNet-50, feature maps, saliency maps, Grad-CAM, computer vision |
